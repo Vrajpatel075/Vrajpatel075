@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Vrajpatel075/Vrajpatel075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vraj, a software engineer based in India
 
-Here are some ideas to get you started:
+I mostly work on scalable FullStack web applications stuff - React, Java, Spring Boot, Servlets, JSP, and SQL
+and bit of animation with gsap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also use to Converted Figma/UI designs into responsive interfaces.
+
+This is a fresh profile where I'll be uploading some small projects, experiments, and things I'm currently working on.
+Everything here is build from scratch, no copypaste templetes
+
+## Tools & Tech
+- React, Tawilwind, Redux
+- Gsap for animations
+- java, springboot, RESTful APIs, Maven
+- SQL, JDBC, Hibernate
+
+## A bit About Me
+- 🐈 I have 2 cats
+- ⚡ Into anime - Naruto is Fav
+- 🔭 I’m currently working on Animaxx a social media application
+- 🍀 I build things which are simple , usefull , Problem-Solving and eassy to understand
+
